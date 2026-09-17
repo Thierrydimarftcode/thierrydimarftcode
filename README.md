@@ -30,12 +30,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thierrydimarftcode&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierrydimarftcode&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thierrydimarftcode/Thierrydimarftcode/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thierrydimarftcode/Thierrydimarftcode/output/github-snake.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/Thierrydimarftcode/Thierrydimarftcode/output/github-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ### 📫 Connect with Me
