@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🏫 I'm a student at **SMK Muhammadiyah 3 Tangerang Selatan**, majoring in Software Engineering (Rekayasa Perangkat Lunak).
 - 💻 Passionate about software development, Python, and databases!
-- 🎯 Focused on writing clean code and building functional applications.
+- 🎯 Focusing on databases and building functional applications.
 
 ---
 
