@@ -42,6 +42,7 @@
     <img alt="github snake" src="https://raw.githubusercontent.com/Thierrydimarftcode/Thierrydimarftcode/output/github-snake.svg">
   </picture>
 </p>
+
 ---
 
 ### 📫 Connect with Me
