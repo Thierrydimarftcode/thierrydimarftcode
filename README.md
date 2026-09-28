@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thierrydimarftcode&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=002b5b&sideLabels=475569&currStreakNum=002b5b&sideNums=002b5b&dates=475569" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/thierrydimarftcode/thierrydimarftcode/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for thierryswebsite.netlify.app" width="100%" />
