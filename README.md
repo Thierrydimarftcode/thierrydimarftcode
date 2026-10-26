@@ -61,7 +61,7 @@
 ---
 
 ### 📫 Connect with Me
-- **Website/Portfolio:** [thierryswebsite.netlify.app](https://thierryswebsite.netlify.app/)
+- **Website:** [thierryswebsite.netlify.app](https://thierryswebsite.netlify.app/)
 - **GitHub:** [Thierrydimarftcode](https://github.com/Thierrydimarftcode)
 
 ⭐️ *From [Thierrydimarftcode](https://github.com/Thierrydimarftcode)*
